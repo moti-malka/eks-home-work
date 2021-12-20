@@ -1,0 +1,6 @@
+IaC/.terraform
+IaC/.terraform.tfstate.lock.info
+IaC/.terraform.lock.hcl
+IaC/terraform.tfstate
+IaC/kubeconfig_education-eks-MSJcMQJP
+terraform.tfstate
